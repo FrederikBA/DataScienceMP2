@@ -4,10 +4,10 @@
 In this assignment we were tasked to create two machine learning models:
 
 1. The first model to predict the financial results of 2022 based on the financial results of 2021 and 2020.
-- TestHest
+    - TestHest
 
 2. The second model to predict the new location of a company in the 'small' category based on features such as financial results and number of employees
-- TestyMacTest
+    - TestyMacTest
 
 #### What challenges did you experience?
 
