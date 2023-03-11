@@ -3,11 +3,13 @@
 #### Which methods and algorithms have you applied and why?
 In this assignment we were tasked to create two machine learning models:
 
-1. The first model to predict the financial results of 2022 based on the financial results of 2021 and 2020.
-    - For the first model we used Linear Regression to predict the financial results of 2022. Here we could simply see the development of financial results from 2020 to 2021 and apply the same development to 2022 so we get a prediction based on a linear connection.
+1. The first model was to predict the financial results of 2022 based on the financial results of 2021 and 2020.
+    - For the first model we used Linear Regression to predict the financial results of 2022. Here we could simply see the development of financial results from 2020 to 2021 and apply the same development to 2022 so we get a prediction based on the linear connection.
 
-2. The second model to predict the new location of a company in the 'small' category based on features such as financial results and number of employees
-    - TestyMacTest
+2. The second model was to predict the new location of a company in the 'small' category based on features such as financial results and number of employees
+    - For this approach we wanted to try classificaton. Instead of finding an exact location of each company based on latitudes and longitudes we decided to explore what municipality a potential new company would belong to based on its financial results and number of employees.
+    - Therefore we added a new column 'municipality' to our company dataframe so we could use this in our model as y value.
+    - Then we could apply classification based on the features: Income and Employees to predict the label 'Municipality_Code' to see which municipality the new company would be located in.
 
 #### What challenges did you experience?
 
