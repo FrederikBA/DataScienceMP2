@@ -4,7 +4,7 @@
 In this assignment we were tasked to create two machine learning models:
 
 1. The first model to predict the financial results of 2022 based on the financial results of 2021 and 2020.
-    - TestHest
+    - For the first model we used Linear Regression to predict the financial results of 2022. Here we could simply see the development of financial results from 2020 to 2021 and apply the same development to 2022 so we get a prediction based on a linear connection.
 
 2. The second model to predict the new location of a company in the 'small' category based on features such as financial results and number of employees
     - TestyMacTest
