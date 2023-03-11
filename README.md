@@ -12,6 +12,7 @@ In this assignment we were tasked to create two machine learning models:
     - Then we could apply classification based on the features: Income and Employees to predict the label 'Municipality_Code' to see which municipality the new company would be located in.
 
 #### What challenges did you experience?
+Initially we tried to use multiple linear regression to predict a set of coordinates (latitude, longitude) to find the location of a potential new company. The given dataset made ground for some challenges especially with y being a tuple of latitudes and longitudes made us go with a different approach.
 
 #### How accurate is your solution?
 
