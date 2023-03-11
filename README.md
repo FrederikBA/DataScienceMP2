@@ -20,4 +20,4 @@ We got an accuracy score of 0.0 for the test set, which means that the model did
 
 #### What else needs to be done for improvement of the accuracy of the solution?
 
-To create a more accurate model in the future, we would need a much larger dataset to train it on.
+To create a more accurate model in the future, we would need a much larger dataset to train it on, potentially with a wider range of available municipalities and a more even spread between them.
